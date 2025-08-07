@@ -75,7 +75,7 @@
     <div class="match-teams">PAOK (Gre) - Wolfsberger (Aut) <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/165">CH165gr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/165">CH165rs</button>
 
     </div>
 </div>
@@ -130,7 +130,7 @@
     <div class="match-teams">Panathinaikos (Gre) - Shakhtar (Ukr) <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/166">CH166ua</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/166">CH166gr</button>
 
     </div>
 </div>

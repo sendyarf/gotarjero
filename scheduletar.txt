@@ -3,39 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-08-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Brest (Fra) - Sassuolo (Ita) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/138">CH138it</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical Club</div>
-    <div class="match-teams">Lens (Fra) - RB Leipzig (Ger) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/162">CH162fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Super Lig</div>
-    <div class="match-teams">Samsunspor - Genclerbirligi <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/151">CH151tr</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-08-09T18:15:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Pro League</div>

@@ -3,61 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-08-12T20:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Des Champions</div>
-    <div class="match-teams">Ferencvaros (Hun) - Ludogorets (Bul) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/176">CH176hu</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-12T20:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Des Champions</div>
-    <div class="match-teams">Slovan Bratislava (Svk) - Kairat Almaty (Kaz) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/177">CH177kz</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-12T20:45:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Efl Cup</div>
-    <div class="match-teams">Watford - Norwich <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/130">CH130us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-12T20:45:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Efl Cup</div>
-    <div class="match-teams">West Brom - Derby <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/131">CH131us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-12T20:45:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Europa</div>
-    <div class="match-teams">Shelbourne (Irl) - Rijeka (Cro) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/178">CH178hr</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-08-12T21:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Amical Club</div>

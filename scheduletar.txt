@@ -3,61 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-08-14T21:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Conference League</div>
-    <div class="match-teams">Austria Vienne (Aut) - Ostrava (Cze) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/182">CH182cz</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-14T21:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Conference League</div>
-    <div class="match-teams">Hibernian (Sco) - Partizan Belgrade (Srb) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/183">CH183rs</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-14T21:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Conference League</div>
-    <div class="match-teams">Santa Clara (Por) - Larne (Nir) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/184">CH184pt</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-14T21:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue Europa</div>
-    <div class="match-teams">Legia (Pol) - AEK Larnaca (Cyp) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/175">CH175pl</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-08-14T22:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Copa Ecuador</div>
-    <div class="match-teams">Gualaceo - Vinotinto <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-08-15T00:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Copa Libertadores</div>

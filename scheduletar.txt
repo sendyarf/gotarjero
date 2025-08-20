@@ -13,8 +13,6 @@
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/75">CH75es</button>
-
     </div>
 </div>
 

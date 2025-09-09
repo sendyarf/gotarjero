@@ -3,87 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-09-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Amical International</div>
-    <div class="match-teams">Estonie - Andorre <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/170">CH170ee</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Afrique du Sud - Nigéria <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/42">CH42fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/71">CH71es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Burkina Faso - Egypte <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/43">CH43fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Cap-Vert - Cameroun <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/44">CH44fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">RD Congo - Sénégal <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/41">CH41fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Togo - Soudan <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/165">CH165us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-09T18:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Europe</div>
-    <div class="match-teams">Azerbaïdjan - Ukraine <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/87">CH87es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-09-09T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Eurobasket</div>
@@ -146,6 +65,8 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/24">CH24fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/117">CH117es</button>
 
     </div>
 </div>

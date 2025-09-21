@@ -3,50 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-09-21T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">FC Dallas - Colorado Rapids <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/184">CH184es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-21T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Houston Dynamo - Portland Timbers <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/185">CH185es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-21T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Minnesota - Chicago Fire <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/186">CH186es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-21T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Sporting Kansas City - Vancouver Whitecaps <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/187">CH187es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-09-21T03:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Liga De Expansion Mx</div>

@@ -191,7 +191,7 @@
     <div class="match-teams">Sunderland - Aston Villa <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/13">CH13fr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/14">CH14fr</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/127">CH127us</button>
 

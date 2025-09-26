@@ -72,28 +72,6 @@
 <div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">National</div>
-    <div class="match-teams">Chateauroux - Caen <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/190">CH190fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
-    <div class="match-teams">Dijon - Concarneau <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/191">CH191fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
     <div class="match-teams">Fleury-Mérogis - Aubagne <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
@@ -105,54 +83,10 @@
 <div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">National</div>
-    <div class="match-teams">Le Puy-en-Velay - Paris 13 Atl. <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/193">CH193fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
-    <div class="match-teams">Orléans - Stade Briochin <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/194">CH194fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
-    <div class="match-teams">Rouen - Bourg-en-Bresse <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/195">CH195fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
     <div class="match-teams">Valenciennes - Villefranche <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/196">CH196fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-26T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
-    <div class="match-teams">Versailles 78 - QRM <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/197">CH197fr</button>
 
     </div>
 </div>

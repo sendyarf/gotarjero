@@ -3,43 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-09-28T19:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Pro League</div>
-    <div class="match-teams">Dender - RAAL La Louviere <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/154">CH154fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-28T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Betfred Super League</div>
-    <div class="match-teams">Asteras T. - PAOK <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/150">CH150gr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-28T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Bundesliga</div>
-    <div class="match-teams">Union Berlin - Hambourg SV <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/6">CH6fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/119">CH119es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-09-28T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Betfred Super League</div>

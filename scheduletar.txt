@@ -3,52 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-09-28T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Chicago Fire - Columbus Crew <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/186">CH186es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-28T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">Nashville SC - Houston Dynamo <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/187">CH187es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-28T02:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MLS</div>
-    <div class="match-teams">St. Louis City - Los Angeles FC <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/188">CH188es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-09-28T02:35:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">MotoGP</div>
-    <div class="match-teams">Warm Up des Moto GP - <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/14">CH14fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/56">CH56es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-09-28T03:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Liga De Expansion Mx</div>

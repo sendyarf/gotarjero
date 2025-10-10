@@ -3,50 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-10-10T15:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Gambie - Gabon <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/161">CH161fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-10-10T15:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Seychelles - Côte d’Ivoire <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/162">CH162fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-10-10T15:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Soudan Sud - Sénégal <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/163">CH163fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-10-10T15:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Qualif. Cm Afrique</div>
-    <div class="match-teams">Togo - Congo RD <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160fr</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-10-10T18:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Qualif. Cm Afrique</div>

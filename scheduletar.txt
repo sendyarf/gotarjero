@@ -3,52 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-10-20T00:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Liga 1 Te Apuesto</div>
-    <div class="match-teams">Deportivo Garcilaso - Sporting Cristal <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-10-20T01:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Coupe Du Monde U20</div>
-    <div class="match-teams">Argentine -20 - Maroc -20 <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/19">CH19fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-10-20T01:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ecuador Ligapro</div>
-    <div class="match-teams">Libertad - U. Catolica <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-10-20T01:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Liga De Expansion Mx</div>
-    <div class="match-teams">Tapatio - Zacatecas Mineros <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/98">CH98es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-10-20T02:20:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">NFL</div>

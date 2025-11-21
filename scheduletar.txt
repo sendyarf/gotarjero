@@ -3,39 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-11-21T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
-    <div class="match-teams">Orléans - Aubagne <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/42">CH42fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-21T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
-    <div class="match-teams">Paris 13 Atl. - Villefranche <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/43">CH43fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-21T19:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">National</div>
-    <div class="match-teams">Valenciennes - Fleury-Mérogis <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/41">CH41fr</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-11-21T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Ligue 2</div>

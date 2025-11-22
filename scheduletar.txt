@@ -3,63 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-11-22T01:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ecuador Ligapro</div>
-    <div class="match-teams">Dep. Cuenca - El Nacional <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/86">CH86es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-22T01:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NBA</div>
-    <div class="match-teams">Cleveland Cavaliers - Indiana Pacers <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-22T01:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NHL</div>
-    <div class="match-teams">Buffalo Sabres - Chicago Blackhawks <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/170">CH170us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-22T01:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NHL</div>
-    <div class="match-teams">Pittsburgh Penguins - Minnesota Wild <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/171">CH171us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-22T01:20:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">formula 1</div>
-    <div class="match-teams">GP de Las Vegas  Essais libres 3 - <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/13">CH13fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/60">CH60es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-11-22T01:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">NBA</div>

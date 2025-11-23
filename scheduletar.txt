@@ -3,52 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-11-22T23:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Liga Betplay Dimayor</div>
-    <div class="match-teams">Santa Fe - Fortaleza <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/81">CH81es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-22T23:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NBA</div>
-    <div class="match-teams">Orlando Magic - New York Knicks <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/1">CH1fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/163">CH163us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-23T00:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Torneo LPF</div>
-    <div class="match-teams">Velez Sarsfield - Argentinos Jrs <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/76">CH76es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-11-23T00:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Campeonato Itaú Chile</div>
-    <div class="match-teams">U. Catolica - Palestino <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/83">CH83es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-11-23T01:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Ecuador Ligapro</div>

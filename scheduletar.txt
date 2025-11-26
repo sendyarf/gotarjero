@@ -57,7 +57,7 @@
     <div class="match-teams">Maccabi Tel Aviv - Milano <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/62">CH62xes</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/65">CH65es</button>
 
     </div>
 </div>
@@ -121,7 +121,7 @@
     <div class="match-teams">Monaco - Anadolu Efes <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/62">CH62xes</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/63">CH63es</button>
 
     </div>
 </div>
@@ -132,7 +132,7 @@
     <div class="match-teams">Étoile Rouge Belgrade - Olympiakos <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/62">CH62xes</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/64">CH64es</button>
 
     </div>
 </div>
@@ -143,7 +143,7 @@
     <div class="match-teams">Barcelone - Lyon-Villeurbanne <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/62">CH62xes</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/62">CH62es</button>
 
     </div>
 </div>

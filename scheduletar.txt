@@ -3,50 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-12-02T19:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Coupe Du Roi</div>
-    <div class="match-teams">Ebro - Osasuna <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/52">CH52es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-02T19:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Coupe Du Roi</div>
-    <div class="match-teams">Numancia - Majorque <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/51">CH51es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-02T19:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Coupe Du Roi</div>
-    <div class="match-teams">Portugalete - Alaves <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/53">CH53es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-02T19:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Coupe Du Roi</div>
-    <div class="match-teams">Racing Club Ferrol - Huesca <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/54">CH54es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-12-02T20:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Coupe De Belgique</div>

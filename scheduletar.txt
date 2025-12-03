@@ -3,67 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-12-03T02:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Liga 1 Te Apuesto</div>
-    <div class="match-teams">Sporting Cristal - A. Lima <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/84">CH84es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-03T02:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NBA</div>
-    <div class="match-teams">Boston Celtics - New York Knicks <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/1">CH1fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/162">CH162us</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/75">CH75es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-03T02:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NBA</div>
-    <div class="match-teams">New Orleans Pelicans - Minnesota Timberwolves <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/163">CH163us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-03T02:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NBA</div>
-    <div class="match-teams">San Antonio Spurs - Memphis Grizzlies <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/164">CH164us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-03T02:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">NHL</div>
-    <div class="match-teams">Nashville Predators - Calgary Flames <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/185">CH185us</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-12-03T03:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">NHL</div>

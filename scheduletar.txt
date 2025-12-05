@@ -3,65 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2025-12-05T20:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">EuroLeague</div>
-    <div class="match-teams">Panathinaikos - Valence <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/62">CH62es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-05T20:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Bundesliga</div>
-    <div class="match-teams">Mayence - B. Monchengladbach <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/10">CH10fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/111">CH111de</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-05T20:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">EuroLeague</div>
-    <div class="match-teams">Baskonia - Milano <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/64">CH64es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-05T20:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">EuroLeague</div>
-    <div class="match-teams">Virtus Bologna - Dubai <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/65">CH65es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2025-12-05T20:30:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Fa Cup</div>
-    <div class="match-teams">Salford - Leyton Orient <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/126">CH126us</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2025-12-05T20:45:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Pro League</div>

@@ -205,6 +205,8 @@
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/112">CH112de</button>
 
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116es</button>
+
     </div>
 </div>
 
@@ -220,6 +222,8 @@
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/91">CH91es</button>
 
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/117">CH117es</button>
+
     </div>
 </div>
 
@@ -231,6 +235,8 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/111">CH111de</button>
 
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/118">CH118es</button>
+
     </div>
 </div>
 
@@ -241,6 +247,8 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/114">CH114de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/119">CH119es</button>
 
     </div>
 </div>
@@ -584,6 +592,8 @@
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/4">CH4fr</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/111">CH111de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116es</button>
 
     </div>
 </div>
@@ -1478,6 +1488,8 @@
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/124">CH124de</button>
 
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116es</button>
+
     </div>
 </div>
 
@@ -1669,6 +1681,8 @@
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/87">CH87es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116es</button>
 
     </div>
 </div>
@@ -1960,6 +1974,8 @@
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/6">CH6fr</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116es</button>
 
     </div>
 </div>

@@ -72,6 +72,8 @@
     <div class="match-teams">Genclerbirligi - Trabzonspor <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/4">CH4fr</button>
+
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/151">CH151tr</button>
 
     </div>
@@ -113,7 +115,7 @@
     <div class="match-teams">Ath. Bilbao - Espanyol <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/7">CH7fr</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/4">CH4fr</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/49">CH49es</button>
 

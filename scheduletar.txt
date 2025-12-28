@@ -20,6 +20,8 @@
     <div class="match-teams">AC Milan - Hellas Vérone <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/45">CH45fr</button>
+
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>

@@ -2087,7 +2087,7 @@
     <div class="match-teams">Leon F - Cruz Azul F <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/178">CH178es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/158">CH158es</button>
 
     </div>
 </div>
@@ -2199,7 +2199,7 @@
     <div class="match-teams">Santos Laguna F - Club America F <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/178">CH178es</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/158">CH158es</button>
 
     </div>
 </div>

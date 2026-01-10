@@ -3,104 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2026-01-10T13:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Fa Cup</div>
-    <div class="match-teams">Cheltenham - Leicester <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/180">CH180us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T13:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Fa Cup</div>
-    <div class="match-teams">Everton - Sunderland <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/181">CH181us</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/124">CH124de</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T13:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Fa Cup</div>
-    <div class="match-teams">Macclesfield - Crystal Palace <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/8">CH8fr</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/126">CH126gb</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/195">CH195es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T13:15:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Fa Cup</div>
-    <div class="match-teams">Wolves - Shrewsbury <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/182">CH182us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T14:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Challenge Cup</div>
-    <div class="match-teams">Newcastle Red Bulls - USA Perpignan <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/1">CH1fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T14:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Challenge Cup</div>
-    <div class="match-teams">Stade Français - Exeter Chiefs <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/3">CH3fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T14:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Laliga</div>
-    <div class="match-teams">Oviedo - Betis <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/49">CH49es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/71">CH71es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/94">CH94es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T14:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Laliga 2</div>
-    <div class="match-teams">Mirandes - Almeria <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/53">CH53es</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2026-01-10T15:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Serie A</div>
@@ -324,17 +226,6 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/188">CH188us</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-10T16:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Fa Cup</div>
-    <div class="match-teams">Salford - Swindon <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/189">CH189us</button>
 
     </div>
 </div>

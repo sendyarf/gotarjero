@@ -264,7 +264,7 @@
     <div class="match-teams">Leones Negros - Jaiba Brava <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/1">CH1xxes</button>
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/105">CH105es</button>
 
     </div>
 </div>

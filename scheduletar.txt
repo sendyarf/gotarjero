@@ -81,6 +81,8 @@
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/78">CH78es</button>
 
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/113">CH113de</button>
+
     </div>
 </div>
 
@@ -276,9 +278,9 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/2">CH2fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/55">CH55es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/111">CH111de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/55">CH55es</button>
 
     </div>
 </div>
@@ -357,11 +359,11 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/45">CH45fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/145">CH145pt</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
 
     </div>
 </div>
@@ -374,11 +376,11 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/10">CH10fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/99">CH99es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/127">CH127gb</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/128">CH128gb</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/99">CH99es</button>
 
     </div>
 </div>
@@ -882,13 +884,13 @@
     <div class="match-teams">Como - Torino <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/145">CH145pt</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
 
     </div>
 </div>
@@ -923,9 +925,9 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/5">CH5fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/112">CH112de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/117">CH117es</button>
 
@@ -1340,15 +1342,15 @@
     <div class="match-teams">Fiorentina - Cagliari <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/145">CH145pt</button>
+
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/145">CH145pt</button>
 
     </div>
 </div>
@@ -1652,13 +1654,13 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/45">CH45fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/98">CH98es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/138">CH138it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/140">CH140it</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/70">CH70es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/98">CH98es</button>
 
     </div>
 </div>
@@ -2099,13 +2101,13 @@
     <div class="match-teams">Sassuolo - Cremonese <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/89">CH89es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/145">CH145pt</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/89">CH89es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
 
     </div>
 </div>
@@ -2342,6 +2344,8 @@
     <div class="match-teams">Genoa - Bologna <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
         
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/139">CH139it</button>
+
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
 
     </div>
@@ -2377,9 +2381,9 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/4">CH4fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/123">CH123de</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/116">CH116es</button>
 
@@ -2622,15 +2626,15 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/45">CH45fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/138">CH138it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/140">CH140it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/145">CH145pt</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/97">CH97es</button>
 
     </div>
 </div>
@@ -2873,15 +2877,15 @@
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/45">CH45fr</button>
 
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
-
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/98">CH98es</button>
-
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/126">CH126gb</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/137">CH137it</button>
 
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/145">CH145pt</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/88">CH88es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/98">CH98es</button>
 
     </div>
 </div>
@@ -3184,6 +3188,34 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/4">CH4fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2026-01-26T18:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Euro masculin de Handball</div>
+    <div class="match-teams">Espagne - France <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/1">CH1fr</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2026-01-26T18:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Super Lig</div>
+    <div class="match-teams">Eyupspor - Besiktas <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/4">CH4fr</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/78">CH78es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/91">CH91es</button>
+
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/151">CH151tr</button>
 
     </div>
 </div>

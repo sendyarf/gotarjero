@@ -3,116 +3,6 @@
     <h2 class="mb-4">Today's Matches</h2>
     <div class="matches-container">
     
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Caf Ligue Des Champions</div>
-    <div class="match-teams">Al-Hilal Omdurman (Sud) - Mamelodi Sundowns (Rsa) <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160qa</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Eredivisie</div>
-    <div class="match-teams">NAC Breda - Twente <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/142">CH142nl</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">EuroLeague</div>
-    <div class="match-teams">Crvena zvezda - Dubai <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/63">CH63es</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue 2</div>
-    <div class="match-teams">Multiplex Ligue 2 - <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/1">CH1de</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue 2</div>
-    <div class="match-teams">Bastia - Nancy <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/7">CH7fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue 2</div>
-    <div class="match-teams">Clermont - Reims <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/5">CH5fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue 2</div>
-    <div class="match-teams">Grenoble - Amiens <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/6">CH6fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue 2</div>
-    <div class="match-teams">Laval - Pau FC <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/8">CH8fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue 2</div>
-    <div class="match-teams">Montpellier - Guingamp <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/4">CH4fr</button>
-
-    </div>
-</div>
-
-<div class="match-card" data-time="2026-01-30T20:00:00+02:00" onclick="toggleChannels(this)">
-    <div class="match-time"></div>
-    <div class="match-competition">Ligue 2</div>
-    <div class="match-teams">Rodez - Red Star <span class="live-indicator">- LIVE</span></div>
-    <div class="channels">
-        
-<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/9">CH9fr</button>
-
-    </div>
-</div>
-
 <div class="match-card" data-time="2026-01-30T20:30:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
     <div class="match-competition">Bundesliga</div>
@@ -630,6 +520,17 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/160">CH160qa</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2026-01-31T14:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Flechettes</div>
+    <div class="match-teams">BDO Winmau World Masters - <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/134">CH134gb</button>
 
     </div>
 </div>
@@ -1399,6 +1300,17 @@
 
 <div class="match-card" data-time="2026-01-31T20:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
+    <div class="match-competition">Flechettes</div>
+    <div class="match-teams">BDO Winmau World Masters - <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/134">CH134gb</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2026-01-31T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
     <div class="match-competition">Liga Endesa</div>
     <div class="match-teams">Bilbao - Joventut Badalona <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
@@ -2114,6 +2026,17 @@
 
 <div class="match-card" data-time="2026-02-01T14:00:00+02:00" onclick="toggleChannels(this)">
     <div class="match-time"></div>
+    <div class="match-competition">Flechettes</div>
+    <div class="match-teams">BDO Winmau World Masters - <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/134">CH134gb</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2026-02-01T14:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
     <div class="match-competition">Laliga</div>
     <div class="match-teams">Real Madrid - Rayo Vallecano <span class="live-indicator">- LIVE</span></div>
     <div class="channels">
@@ -2733,6 +2656,17 @@
     <div class="channels">
         
 <button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/141">CH141nl</button>
+
+    </div>
+</div>
+
+<div class="match-card" data-time="2026-02-01T20:00:00+02:00" onclick="toggleChannels(this)">
+    <div class="match-time"></div>
+    <div class="match-competition">Flechettes</div>
+    <div class="match-teams">BDO Winmau World Masters - <span class="live-indicator">- LIVE</span></div>
+    <div class="channels">
+        
+<button class="channel-btn" data-bs-toggle="modal" data-bs-target="#streamModal" data-stream="https://envivo.govoet.my.id/134">CH134gb</button>
 
     </div>
 </div>
